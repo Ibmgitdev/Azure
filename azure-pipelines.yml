@@ -1,3 +1,5 @@
+trigger:
+- master
 - task: Bash@3
   inputs:
     targetType: 'inline'
